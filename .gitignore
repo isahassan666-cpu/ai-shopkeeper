@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+results/*.csv
+frontend/vendor/chart.umd.min.js
